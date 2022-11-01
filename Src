@@ -1,0 +1,12 @@
+{
+    "chainId": 101,
+    "address": "7wsSgwZ3pLtSo5wucY5AEbCTKXpY6dQHjjbNYtU8yfnE",
+    "symbol": "KROK",
+    "name": "Krocs-Official",
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/Krocs-official/Krocs-crypto/main/Krocs-Logo.png",
+    "tags": [
+      "Meme-token"
+    ]
+}
+
